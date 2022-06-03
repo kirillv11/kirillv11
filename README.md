@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kirillv11
-- 👀 I’m interested in C++ or python
+- 👀 I’m interested in C++, C# or python
 - 🌱 I’m currently learning in school
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kirillv.2014@yandex.ru
 
 <!---
