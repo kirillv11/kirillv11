@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @kirillv11
-- 👀 I’m interested in C++ or python
-- 🌱 I’m currently learning in school
+- 👀 I’m interested in C++ or Python
 - 📫 How to reach me kirillv.2016@mail.ru
